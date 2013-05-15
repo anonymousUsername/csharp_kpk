@@ -1,5 +1,0 @@
-D:\Downloads\12. Refactoring-Homework\bin\Debug\GameFifteen.exe
-D:\Downloads\12. Refactoring-Homework\bin\Debug\GameFifteen.pdb
-D:\Downloads\12. Refactoring-Homework\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
-D:\Downloads\12. Refactoring-Homework\obj\x86\Debug\GameFifteen.exe
-D:\Downloads\12. Refactoring-Homework\obj\x86\Debug\GameFifteen.pdb
