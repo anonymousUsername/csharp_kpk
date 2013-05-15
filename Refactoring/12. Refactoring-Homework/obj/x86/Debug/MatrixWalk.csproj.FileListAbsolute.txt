@@ -1,0 +1,10 @@
+D:\Downloads\12. Refactoring-Homework\bin\Debug\GameFifteen.exe
+D:\Downloads\12. Refactoring-Homework\bin\Debug\GameFifteen.pdb
+D:\Downloads\12. Refactoring-Homework\obj\x86\Debug\MatrixWalk.csprojResolveAssemblyReference.cache
+D:\Downloads\12. Refactoring-Homework\obj\x86\Debug\GameFifteen.exe
+D:\Downloads\12. Refactoring-Homework\obj\x86\Debug\GameFifteen.pdb
+D:\Studies\telerik-kpk\Refactoring\12. Refactoring-Homework\bin\Debug\GameFifteen.exe
+D:\Studies\telerik-kpk\Refactoring\12. Refactoring-Homework\bin\Debug\GameFifteen.pdb
+D:\Studies\telerik-kpk\Refactoring\12. Refactoring-Homework\obj\x86\Debug\MatrixWalk.csprojResolveAssemblyReference.cache
+D:\Studies\telerik-kpk\Refactoring\12. Refactoring-Homework\obj\x86\Debug\GameFifteen.exe
+D:\Studies\telerik-kpk\Refactoring\12. Refactoring-Homework\obj\x86\Debug\GameFifteen.pdb
